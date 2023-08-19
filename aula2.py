@@ -1,13 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Spyder Editor
-
-Autor: Matheus Fortunato Dário.
-Criação: 17/08/2023.
-1. Implementar a eq. a diferenças.
-2. Calcular numericamente respostas ao impolso.
-"""
-
 import numpy as np
 import matplotlib.pyplot as plt
 import pds
