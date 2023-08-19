@@ -1,11 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Spyder Editor
-
-Autor: Matheus Fortunato Dário.
-Criação: 10/08/2023.
-"""
-
 import numpy as np
 import matplotlib.pyplot as plt
 import pds
